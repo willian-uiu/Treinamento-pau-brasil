@@ -2,7 +2,7 @@ Nosso sistema de gerenciamento de recursos.
 
 ----
 ### Relatórios do promax necessários:
-#### Rotina de [[Clientes]]: 01.05.07.04.02
+#### Rotina de [Clientes](../Abas/Clientes.md): 01.05.07.04.02
 Dentro da base de clientes você vai encontrar inúmeras colunas importantes como:
 	Filial, 
 	Numero do pdv (Também chamado de "NB"),
@@ -13,9 +13,9 @@ Dentro da base de clientes você vai encontrar inúmeras colunas importantes com
 	Endereço 
 	entre outras colunas. 
 	
-	*É importante analisar as colunas com base na sua necessidade* 
+	É importante analisar as colunas com base na sua necessidade
 ----
-#### Rotina de [[Vendas]] mês: 03.05.09
+#### Rotina de [Vendas](../Abas/Vendas.md) mês: 03.05.09
 	Esta rotina contém no máximo os últimos 3 meses de vendas
 	Ela gera apenas a revenda na qual você está selecionando dentro do PROMAX.
 ----
